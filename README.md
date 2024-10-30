@@ -1,4 +1,4 @@
-# Hi there, I'm João 'Riuchek' Marinho \(￣︶￣*\))
+# Hi there, I'm João 'Riuchek' Marinho :)
 
 ### About Me
 - 🎓 **Bachelor of Technology ** in Systems Analysis and Development, at FATEC Mococa.
