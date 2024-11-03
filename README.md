@@ -18,7 +18,7 @@
 - **RPG Plus Plus**: A tool to help RPG players manage their campaigns and characters.
 
 ### Contact Me
-- [LinkedIn]([https://www.linkedin.com/in/joaomarinho](https://www.linkedin.com/in/jo%C3%A3o-marinho-64bab3272/)) 
+- [LinkedIn](https://www.linkedin.com/in/riuchek/)
 - **Email**: riuchek@gmail.com
 - **Everywhere**: @Riuchek
 
