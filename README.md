@@ -9,10 +9,10 @@
 - 🎮 **Gamer**, and a game lover.
 
 ### Skills
-- **Frontend**: Vue , Nuxt , Wonderful Designs 
+- **Frontend**: Vue, Javascript
 - **Backend**: Typescript, NodeJS, Java, GraphQL, RESTful APIs
 - **Tools**: SCRUM, Jira, Git, and GitHub
-- **Libraries and Frameworks**: Vue3, Nuxt3
+- **Libraries and Frameworks**: Nuxt3
 
 ### Projects
 - **RPG Plus Plus**: A tool to help RPG players manage their campaigns and characters.
