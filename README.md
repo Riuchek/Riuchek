@@ -1,7 +1,7 @@
 # Hi there, I'm João 'Riuchek' Marinho :)
 
 ### About Me
-- 🎓 **Bachelor of Technology ** in Systems Analysis and Development, at FATEC Mococa.
+- 🎓 **Bachelor ** in Systems Analysis and Development, at FATEC Mococa.
 - 💻 **Frontend Intern** at Petlove, working with **Vue.js**, **Nuxt**, and **Typescript**.
 - 🔬 **Research Volunteer** in Artificial Intelligence at INRS and Centro Paula Souza.
 - ⚔️ Passionate **DnD Player**, creator of unique characters with distinct personalities and always starting with letter S.
@@ -9,8 +9,8 @@
 - 🎮 **Gamer**, and a game lover.
 
 ### Skills
-- **Frontend**: Vue, Javascript
-- **Backend**: Typescript, NodeJS, Java, GraphQL, RESTful APIs
+- **Frontend**: Vue
+- **Backend**: Typescript, Java
 - **Tools**: SCRUM, Jira, Git, and GitHub
 - **Libraries and Frameworks**: Nuxt3
 
