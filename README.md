@@ -9,8 +9,8 @@
 - 🎮 **Gamer**, and a game lover.
 
 ### Skills
-- **Frontend**: Vue
-- **Backend**: Typescript, Java
+- **Frontend**: Vue.js
+- **Backend**: Node.js, Java
 - **Tools**: SCRUM, Jira, Git, and GitHub
 - **Libraries and Frameworks**: Nuxt3
 
