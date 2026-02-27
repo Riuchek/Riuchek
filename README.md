@@ -1,7 +1,7 @@
 # Hi there, I'm João 'Riuchek' Marinho <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F712FF&center=true&vCenter=true&width=500&lines=Software+Engineer+@+Petlove;Nice+to+meet+you!;Go+%2B+Flutter+Developer;Architecting+scalable+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F712FF&center=true&vCenter=true&width=500&lines=Software+Engineer+@+Petlove;Nice+to+meet+you!" alt="Typing SVG" />
 </p>
 
 ### ⚡ Quick Bio
@@ -21,10 +21,6 @@ I'm a **Software Engineer at Petlove**, focused on building scalable architectur
 ---
 
 ### 📊 GitHub Stats & Activity
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riuchek&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riuchek&layout=compact&langs_count=7&theme=dracula" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riuchek&theme=dracula" alt="GitHub Streak" />
