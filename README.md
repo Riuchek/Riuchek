@@ -1,11 +1,11 @@
-# Hi there, I'm João 'Riuchek' Marinho <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />
+# Hey, I'm João 'Riuchek' Marinho <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F712FF&center=true&vCenter=true&width=500&lines=Software+Engineer+@+Petlove;Nice+to+meet+you!" alt="Typing SVG" />
 </p>
 
 ### ⚡ Quick Bio
-I'm a **Software Engineer at Petlove**, focused on building scalable architectures and improving complex systems.
+**Software Engineer at Petlove**, focused on building scalable architectures and improving complex systems.
 
 ---
 
@@ -20,15 +20,7 @@ I'm a **Software Engineer at Petlove**, focused on building scalable architectur
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riuchek&theme=dracula" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Let's Connect
+### 📫 Social Medias
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riuchek/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riuchek@gmail.com)
